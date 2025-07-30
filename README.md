@@ -1,26 +1,25 @@
 | Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
 |-------------|:----------------:|:------------:|
 | Amazon    | 5     | ❌  |
-| Apple    | mehrere | ✅ (z. bB. Apple-ID-Wiederherstellung, Gerätecode) |
-| Sensor *    | ?    | ⚠️ kritisch |
-| Sensor C    | ⚠️ kritisch    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Apple    | mehrere | ✅ (z.B. Apple-ID-Wiederherstellung, Gerätecode) |
+| Dropbox    | mehrere    | ✅ (Notfallcode erforderlich) |
+| eBay    | mehrere    | ✅ (Notfallcode erforderlich) |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+| Dropbox    | mehrere    | ⚠️ kritisch |
+
 
 
 ⚠️zu validieren
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-Anbieter Anzahl möglicher Passkeys „Passwort vergessen“ - Fallback
-Amazon 5 nein
-Apple mehrere Geräte & Schlüssel ja (z. bB. Apple-ID-Wiederherstellung, Gerätecode)
+
 Dropbox mehrere ja (Notfal lcode erforderl ich)
 eBay mehrere ja (per Mai l oder Telefonnummer)
 facebook * ? ?
