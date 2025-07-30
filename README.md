@@ -6,7 +6,7 @@ https://www.verbraucherzentrale.nrw/wissen/digitale-welt/datenschutz/passkeys-al
 
 
 
-| Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
+|Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
 |-------------|:----------------:|:------------:|
 | Amazon    | 5     | ❌  |
 | Apple    | mehrere | ✅ (z.B. Apple-ID-Wiederherstellung, Gerätecode) |
