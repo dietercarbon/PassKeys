@@ -3,27 +3,27 @@
 | Amazon    | 5     | ❌  |
 | Apple    | mehrere | ✅ (z.B. Apple-ID-Wiederherstellung, Gerätecode) |
 | Dropbox    | mehrere    | ✅ (Notfallcode erforderlich) |
-| eBay    | mehrere    | ✅ (Notfallcode erforderlich) |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-| Dropbox    | mehrere    | ⚠️ kritisch |
-
-
+| eBay    | mehrere    | ✅ (per Mail oder Telefonnummer) |
+| facebook *    | ⚠️   | ⚠️  |
+| GitHub    | mehrere   | ✅  |
+| Hyatt *    | ⚠️   | ⚠️  |
+| IKEA *    | ⚠️   | ⚠️  |
+| Google    | mehrere   | ✅ (via Recovery-Mail /SMS)  |
+| facebook *    | ⚠️   | ⚠️  |
+| facebook *    | ⚠️   | ⚠️  |
+| facebook *    | ⚠️   | ⚠️  |
+| facebook *    | ⚠️   | ⚠️  |
+| facebook *    | ⚠️   | ⚠️  |
+| facebook *    | ⚠️   | ⚠️  |
+| facebook *    | ⚠️   | ⚠️  |
 
 ⚠️zu validieren
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 
-Dropbox mehrere ja (Notfal lcode erforderl ich)
-eBay mehrere ja (per Mai l oder Telefonnummer)
-facebook * ? ?
-Gi tHub mehrere ja
+
+GitHub mehrere ja
 Hyatt * ? ?
 IKEA * ? ?
 Google mehrere pro Account ja (via Recovery-Mai l /SMS)
