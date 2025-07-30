@@ -20,6 +20,8 @@
 | Uber *    | ⚠️   | ⚠️  |
 | yahoo! *    | ⚠️   | ⚠️  |
 | YouTube *    | ⚠️   | ⚠️  |
+
+
 <br>"*" laut Passkey Directory (wird noch geprüft):   https: //fidoalliance.org/passkeys-directory/<br>
     
 ⚠️zu validieren<br>
