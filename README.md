@@ -14,6 +14,8 @@
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 
 
+⚠️zu validieren
+
 <br><br><br><br><br><br><br><br><br><br><br>
 
 Anbieter Anzahl möglicher Passkeys „Passwort vergessen“ - Fallback
