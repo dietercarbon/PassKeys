@@ -14,7 +14,7 @@
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |<br><br><br><br><br><br><br><br><br><br><br>
 
 
-
+<br><br><br><br><br><br><br><br><br><br><br>
 
 Anbieter Anzahl möglicher Passkeys „Passwort vergessen“ - Fallback
 Amazon 5 nein
