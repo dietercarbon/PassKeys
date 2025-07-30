@@ -31,7 +31,7 @@ https://www.passkeycentral.org/introduction-to-passkeys/<br><br>
 
 <br>
 Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br>
-* laut **Passkey Directory** (wird noch geprüft); Infos unter:<br>
+* laut ###Passkey Directory### (wird noch geprüft); Infos unter:<br>
 https: //fidoalliance.org/passkeys-directory/<br>
     
 ⚠️zu validieren<br>
