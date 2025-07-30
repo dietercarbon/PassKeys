@@ -30,8 +30,8 @@ https://www.verbraucherzentrale.nrw/wissen/digitale-welt/datenschutz/passkeys-al
 | YouTube *    | ⚠️   | ⚠️  |
 
 <br>
-<br>Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br>
-<br>"*" laut Passkey Directory (wird noch geprüft):   https: //fidoalliance.org/passkeys-directory/<br>
+Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br>
+"*" laut Passkey Directory (wird noch geprüft):   https: //fidoalliance.org/passkeys-directory/<br>
     
 ⚠️zu validieren<br>
 
