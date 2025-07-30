@@ -1,7 +1,16 @@
 | Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
 |-------------|----------------|------------|
-| Sensor A    | Temperatur     | ✅ aktiv   |
+| Amazon    | 5     | ❌  |
 | Sensor B    | Luftfeuchtigkeit | ❌ inaktiv |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 
 
