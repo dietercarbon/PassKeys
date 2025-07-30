@@ -2,9 +2,9 @@
 **BSI**: „Schafft die Passwörter ab?! Anmelden ohne Passwort mit Passkey“; Infos unter:<br>
 https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Passkeys/passkeys-anmelden-ohne-passwort_node.html<br>
 **Verbraucherzentrale NRW**: „Passkeys als Alternative zu Passwörtern“; Infos unter:<br>
-https://www.verbraucherzentrale.nrw/wissen/digitale-welt/datenschutz/passkeys-als-alternative-zu-passwoertern-94842<br><br>
-
-
+https://www.verbraucherzentrale.nrw/wissen/digitale-welt/datenschutz/passkeys-als-alternative-zu-passwoertern-94842<br>
+**fido Alliance**: „Introduction to Passkeys“ (Einführung in PassKeys); Infos unter:<br>
+https://www.passkeycentral.org/introduction-to-passkeys/<br><br>
 
 |Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
 |-------------|:----------------:|:------------:|
