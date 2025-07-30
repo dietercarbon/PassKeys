@@ -1,7 +1,9 @@
 | Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
-|-------------|:----------------:|------------|
+|-------------|:----------------:|:------------:|
 | Amazon    | 5     | ❌  |
 | Apple    | mehrere | ✅ (z. bB. Apple-ID-Wiederherstellung, Gerätecode) |
+| Sensor *    | ?    | ⚠️ kritisch |
+| Sensor C    | ⚠️ kritisch    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
@@ -9,9 +11,7 @@
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |<br><br><br>
 
 
 
