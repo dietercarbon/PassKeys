@@ -9,33 +9,19 @@
 | Hyatt *    | ⚠️   | ⚠️  |
 | IKEA *    | ⚠️   | ⚠️  |
 | Google    | mehrere   | ✅ (via Recovery-Mail /SMS)  |
-| facebook *    | ⚠️   | ⚠️  |
-| facebook *    | ⚠️   | ⚠️  |
-| facebook *    | ⚠️   | ⚠️  |
-| facebook *    | ⚠️   | ⚠️  |
-| facebook *    | ⚠️   | ⚠️  |
-| facebook *    | ⚠️   | ⚠️  |
-| facebook *    | ⚠️   | ⚠️  |
+| LinkedIn *    | ⚠️   | ⚠️  |
+| Microsoft    | mehrere   | ✅ (per Telefonnummer)  |
+| NETFLIX *    | ⚠️   | ⚠️  |
+| PayPal *    | ⚠️   | ⚠️  |
+| SAMSUNG *    | ⚠️   | ⚠️  |
+| T-Mobile *    | ⚠️   | ⚠️  |
+| TikTok *    | ⚠️   | ⚠️  |
+| Toyota *    | ⚠️   | ⚠️  |
+| Uber *    | ⚠️   | ⚠️  |
+| yahoo! *    | ⚠️   | ⚠️  |
+| YouTube *    | ⚠️   | ⚠️  |
 
-⚠️zu validieren
+⚠️zu validieren<br>
 
 <br><br><br><br>
 
-
-
-GitHub mehrere ja
-Hyatt * ? ?
-IKEA * ? ?
-Google mehrere pro Account ja (via Recovery-Mai l /SMS)
-Linked in * ? ?
-Microsoft mehrere ja (z. bB. via Telefonnummer)
-NETFLIX * ? ?
-PayPal * ? ?
-SAMSUNG * ? ?
-T-Mobi le * ? ?
-TikTok * ? ?
-Toyota * ? ?
-Uber * ? ?
-yahoo! * ? ?
-YouTube * ? ?
-1Password mehrere ja (Master-PW + Recovery-Key)
