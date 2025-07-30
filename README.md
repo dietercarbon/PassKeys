@@ -1,7 +1,7 @@
 | Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
 |-------------|----------------|------------|
 | Amazon    | 5     | ❌  |
-| Sensor B    | Luftfeuchtigkeit | ❌ inaktiv |
+| Apple    | mehrere | ✅ (z. bB. Apple-ID-Wiederherstellung, Gerätecode) |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
