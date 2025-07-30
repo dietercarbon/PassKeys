@@ -11,7 +11,7 @@
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
 | Sensor C    | CO₂-Messung    | ⚠️ kritisch |
-| Sensor C    | CO₂-Messung    | ⚠️ kritisch |<br><br><br>
+| Sensor C    | CO₂-Messung    | ⚠️ kritisch |<><br><br>
 
 
 
