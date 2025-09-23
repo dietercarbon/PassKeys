@@ -34,10 +34,8 @@ Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br><br>
 "*" laut PassKey Directory (wird noch geprüft); Infos unter:  https: //fidoalliance.org/passkeys-directory/<br>    
 ⚠️zu validieren<br><br>
 <br>  
----
 
 ***
-
 ___
 
 
