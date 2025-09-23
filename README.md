@@ -39,7 +39,7 @@ Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br><br>
 
 ***
 
-<strong>AKIS-82: Erste PassKey-Party</strong> ... am Mittwoch, 03.12.2025  <br><br>
+##AKIS-82: Erste PassKey-Party</strong> ... am Mittwoch, 03.12.2025  <br><br>
 <strong>Hochschule Mainz und VDI veranstalten unter Schirmherrschaft des Landesdatenschutzbeauftragten Rheinland-Pfalz, Prof. Kugelmann die erste "PassKey-Party" in der Hochschule Mainz.</strong><br><br>
 
 Die "Passkey Party" ist eine niedrigschwellige, informative und interaktive Abendveranstaltung, bei der interessierte Bürger\:innen, Fachpublikum und Multiplikatoren auf lockere Weise das Thema "PassKeys" (passwortfreies Anmelden mit FIDO2-Technologie) kennenlernen und selbst ausprobieren können.<br>
