@@ -47,29 +47,12 @@ PassKeys gelten als der sicherste Weg, sich künftig bei Online-Diensten anzumel
 
 geplant:  
 
-
-|Zeit        | Inhalt       |
-|-------------|---------------------------------|
-| 18:00    | 5     |
-
-
 |Zeit        | Inhalt       |
 |-------------|---------------------------------|
 | 18:00    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?     |
 | 18:30    | Brezeln, Getränke: Networking und Erfahrungsaustausch     |
 | 19:00    | parallele Live-Sessions: PassKey-Anmeldung bei Amazon, Apple, Google, Microsoft     |
 | 20:00    | Offenes Ausprobieren & Gesprächsrunden     |
-
-
-
-|Zeit        | Inhalt      |
-|-------------|----------------|:------------:|
-|18:00    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?   |<br><br>
-18:00    Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?  
-18:30    Brezeln, Getränke: Networking und Erfahrungsaustausch  
-19:00    parallele Live-Demos: PassKey-Anmeldung bei Amazon, Apple, Google, Microsoft  
-20:00    Offenes Ausprobieren & Gesprächsrunden
-
 
 
 
