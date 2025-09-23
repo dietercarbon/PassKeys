@@ -31,7 +31,7 @@ https://www.passkeycentral.org/introduction-to-passkeys/<br><br>
 
 <br>
 Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br><br>
-"*" laut Passkey Directory (wird noch geprüft); Infos unter:  https: //fidoalliance.org/passkeys-directory/<br>    
+"*" laut PassKey Directory (wird noch geprüft); Infos unter:  https: //fidoalliance.org/passkeys-directory/<br>    
 ⚠️zu validieren<br><br>
 **AKIS-82: Erste PassKey-Party unter Schirmherrschaft des Landesdatenschutzbeauftragten Rheinland-Pfalz, Prof. Kugelmann**<br><br>
 **Hochschule Mainz und VDI veranstalten unter Schirmherrschaft des Landesdatenschutzbeauftragten Rheinland-Pfalz, Prof. Kugelmann die erste "PassKey-Party" in der Hochschule Mainz.**<br><br>
