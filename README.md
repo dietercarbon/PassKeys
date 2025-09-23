@@ -52,6 +52,11 @@ geplant:
 | Amazon    | 5     |
 
 
+|Zeit        | Inhalt       |
+|-------------|---------------------------------|
+| Amazon    | 5     |
+
+
 |Zeit        | Inhalt      |
 |-------------|----------------|:------------:|
 |18:00    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?   |<br><br>
