@@ -36,7 +36,6 @@ Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br><br>
 <br>  
 
 ***
-___
 
 
 <strong>AKIS-82: Erste PassKey-Party</strong> ... am Mittwoch, 03.12.2025  <br><br>
