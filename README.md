@@ -46,6 +46,12 @@ wie Sie mit modernen Sicherheitsschlüsseln Ihre Online-Konten schützen – gan
 PassKeys gelten als der sicherste Weg, sich künftig bei Online-Diensten anzumelden – ohne klassische Passwörter. Unterstützt durch einen Hardware-Stick (z. B. YubiKey, Nitrokey, Token2), machen PassKeys Phishing und Datenlecks weitgehend wirkungslos.<br><br>
 
 geplant:  
+
+|Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
+|-------------|:----------------:|:------------:|
+| Amazon    | 5     | ❌  |
+
+
 |Zeit        | Inhalt      |
 |-------------|----------------|:------------:|
 |18:00    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?   |<br><br>
