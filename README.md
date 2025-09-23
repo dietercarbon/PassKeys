@@ -37,7 +37,6 @@ Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br><br>
 
 ***
 
-
 <strong>AKIS-82: Erste PassKey-Party</strong> ... am Mittwoch, 03.12.2025  <br><br>
 <strong>Hochschule Mainz und VDI veranstalten unter Schirmherrschaft des Landesdatenschutzbeauftragten Rheinland-Pfalz, Prof. Kugelmann die erste "PassKey-Party" in der Hochschule Mainz.</strong><br><br>
 
