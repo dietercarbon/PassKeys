@@ -32,6 +32,28 @@ https://www.passkeycentral.org/introduction-to-passkeys/<br><br>
 <br>
 Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br><br>
 "*" laut Passkey Directory (wird noch geprüft); Infos unter:  https: //fidoalliance.org/passkeys-directory/<br>    
-⚠️zu validieren<br>
+⚠️zu validieren<br><br>
+**AKIS-82: Erste PassKey-Party unter Schirmherrschaft des Landesdatenschutzbeauftragten Rheinland-Pfalz, Prof. Kugelmann**<br><br>
+**Hochschule Mainz und VDI veranstalten unter Schirmherrschaft des Landesdatenschutzbeauftragten Rheinland-Pfalz, Prof. Kugelmann die erste "PassKey-Party" in der Hochschule Mainz.**<br><br>
+
+Die "Passkey Party" ist eine niedrigschwellige, informative und interaktive Abendveranstaltung, bei der interessierte Bürger\:innen, Fachpublikum und Multiplikatoren auf lockere Weise das Thema "PassKeys" (passwortfreies Anmelden mit FIDO2-Technologie) kennenlernen und selbst ausprobieren können.<br>
+
+Jeder ist eingeladen, sich zu informieren; für Brezeln und Getränke wird gesorgt; wer Laptop und PassKey-Stick mitbringt, kann vor Ort seine PassKeys bei Amazon, Apple, Google und anderen selbst einrichten.<br>
+
+Wir zeigen:  <br>
+wie Sie mit modernen Sicherheitsschlüsseln Ihre Online-Konten schützen – ganz ohne Passwörter.<br><br>
+
+PassKeys gelten als der sicherste Weg, sich künftig bei Online-Diensten anzumelden – ohne klassische Passwörter. Unterstützt durch einen Hardware-Stick (z. B. YubiKey, Nitrokey, Token2), machen PassKeys Phishing und Datenlecks weitgehend wirkungslos.<br><br>
+
+geplant:  
+|18:00    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?   |<br><br>
+18:00    Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?  
+18:30    Brezeln, Getränke: Networking und Erfahrungsaustausch  
+19:00    parallele Live-Demos: PassKey-Anmeldung bei Amazon, Apple, Google, Microsoft  
+20:00    Offenes Ausprobieren & Gesprächsrunden
+
+
+
+
 <br><br><br><br>
 
