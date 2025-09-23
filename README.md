@@ -47,9 +47,9 @@ PassKeys gelten als der sicherste Weg, sich künftig bei Online-Diensten anzumel
 
 geplant:  
 
-|Zeit        | Inhalt       | „Passwort vergessen“ - Fallback     |
-|-------------|:----------------:|:------------:|
-| Amazon    | 5     | ❌  |
+|Zeit        | Inhalt       |
+|-------------|:----------------:|
+| Amazon    | 5     |
 
 
 |Zeit        | Inhalt      |
