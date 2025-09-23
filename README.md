@@ -33,10 +33,6 @@ https://www.passkeycentral.org/introduction-to-passkeys/<br><br>
 Stand: 30.07.2025 - ohne Gewähr - Updates folgen<br><br>
 "*" laut PassKey Directory (wird noch geprüft); Infos unter:  https: //fidoalliance.org/passkeys-directory/<br>    
 ⚠️zu validieren<br><br>
----
-
-***
-
 ___
 
 <strong>AKIS-82: Erste PassKey-Party</strong> ... am Mittwoch, 03.12.2025  <br><br>
