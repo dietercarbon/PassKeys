@@ -47,14 +47,15 @@ PassKeys gelten als der sicherste Weg, sich künftig bei Online-Diensten anzumel
 
 geplant:  
 
+
 |Zeit        | Inhalt       |
-|-------------|:----------------:|
-| Amazon    | 5     |
+|-------------|---------------------------------|
+| 18:00    | 5     |
 
 
 |Zeit        | Inhalt       |
 |-------------|---------------------------------|
-| Amazon    | 5     |
+| Amazon    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?     |
 
 
 |Zeit        | Inhalt      |
