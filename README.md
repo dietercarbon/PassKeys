@@ -56,6 +56,10 @@ geplant:
 |Zeit        | Inhalt       |
 |-------------|---------------------------------|
 | Amazon    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?     |
+| Amazon    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?     |
+| Amazon    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?     |
+| Amazon    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?     |
+| Amazon    | Begrüßung & Kurz-Einführung: Was sind PassKeys und warum braucht man sie?     |
 
 
 |Zeit        | Inhalt      |
