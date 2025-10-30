@@ -1,4 +1,4 @@
-## Vorbereitung der PassKey-Party:  todos<br><br><br>
+## Vorbereitung der PassKey-Party:  todos ... Update 02<br><br><br>
 | Nr        | Was                           | Wann   | TK | NK | YS | DK | ES | RM | ML | DS | MW | CM | MM | DC |
 |-------------|:-------------------------:|:--------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1           | Prüfung, ob technisch OK.  |   asap   | ⚠️| ⚠️|    |    |    |    |    |    |    | ⚠️| ⚠️ |    |
