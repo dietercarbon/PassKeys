@@ -10,7 +10,7 @@
 | 7           | Titel-Ergänzung für Intro  |   asap   | ⚠️| ⚠️|    |    |    |    |    |    |    |    |    |    |
 | 8           | Kontakt DC zu „Caterer“    |   asap   |    |   | ⚠️ |    |    |    |    |    |    |    |    |    |
 | 9           | Bewerbung in Medien-Kanälen|   asap   |    |   | ⚠️ |    |    | ⚠️ |    |    |    |    |    |    |
-| 10          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
+| 10          | 3 „Ecken-Bildschirme“ organisieren|   asap   |    | ⚠️|    |    |    |    |    |    |    |    |    |    |
 | 11          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 12          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 13          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
