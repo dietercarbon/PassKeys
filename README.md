@@ -1,5 +1,5 @@
 ## Vorbereitung der PassKey-Party:  todos<br><br><br>
-|Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
+| Nr        | Was       | Wann     | TK | NK | YS | DK | ES | RM | ML | DS | MW | CM | MM | DC |
 |-------------|:----------------:|:------------:|
 | Amazon    | 5     | ❌  |
 
