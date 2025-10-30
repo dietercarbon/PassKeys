@@ -5,7 +5,7 @@
 | 2           | Zitat-Ergänzung in Text    |   asap   |    |   |    | ✅|    |    |    |    |    |    |     |    |
 | 3           | Titel-Ergänzung für Intro  |   asap   |    |   |    | ⚠️ |    |    |    |    |    |    |    |    |
 | 4           | Zitat-Ergänzung in Text    |   asap   | ⚠️| ⚠️| ⚠️ |    |    |    |    |    |    |    |    |    |
-| 5           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
+| 5           | gemeinsame Text-Optimierung|   asap   |    |   | ⚠️ |    |    | ⚠️ |    |    |    |    |    |    |
 | 6           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 7           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 8           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
