@@ -1,3 +1,11 @@
+## Stimmen zu PassKeys<br><br><br>
+|Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
+|-------------|:----------------:|:------------:|
+| Amazon    | 5     | ❌  |
+
+
+
+
 ## Stimmen zu PassKeys<br>
 **BSI**: „Schafft die Passwörter ab?! Anmelden ohne Passwort mit Passkey“; Infos unter:<br>
 https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Passkeys/passkeys-anmelden-ohne-passwort_node.html<br>
