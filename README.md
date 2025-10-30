@@ -20,6 +20,14 @@
 
 <br><br>
 
+| von        | bis                           | "Ecke" 0   |  | „Ecke“ 1 | „Ecke“ 1 | „Ecke“ 1 | Zentrum |
+|-------------|:-------------------------:|:--------:|:--:|:--:|:--:|:--:|:--:|
+| 1           | Prüfung, ob technisch OK.  |   asap   | ⚠️| ⚠️|    |    |    |
+
+
+
+
+<br><br>
 
 ## Stimmen zu PassKeys<br>
 **BSI**: „Schafft die Passwörter ab?! Anmelden ohne Passwort mit Passkey“; Infos unter:<br>
