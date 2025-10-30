@@ -18,7 +18,7 @@
 | 15          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 90          |Gemeinsames Teams-Meeting   |   27.11.2025 um 17.00 Uhr   | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ |
 
-
+<br><br>
 
 
 ## Stimmen zu PassKeys<br>
