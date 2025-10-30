@@ -20,9 +20,14 @@
 
 <br><br>
 
-| Uhrzeit     | Dauer  | "Ecke" 0   |  | „Ecke“ 1 | „Ecke“ 1 | „Ecke“ 1 | Zentrum |
-|-------------|:-------------------------:|:--------:|:--:|:--:|:--:|:--:|:--:|
-| 18.00       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
+| Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 1 | „Ecke“ 1 | Zentrum |
+|-------------|:------:|:-----------------------------:|:--:|:--:|:--:|:--:|:--:|
+|             |        |                               |    |Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
+| 18.00       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    ||
+| 18.10       | 00.10  |   Darstellung Handlungskontext| Dekan?|             |                             |    ||
+| 18.20       | 00.20  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    ||
+| 18.40       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    ||
+| 18.50       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    |
 
 
 
