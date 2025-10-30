@@ -20,9 +20,9 @@
 
 <br><br>
 
-| von        | bis                           | "Ecke" 0   |  | „Ecke“ 1 | „Ecke“ 1 | „Ecke“ 1 | Zentrum |
+| Uhrzeit     | Dauer  | "Ecke" 0   |  | „Ecke“ 1 | „Ecke“ 1 | „Ecke“ 1 | Zentrum |
 |-------------|:-------------------------:|:--------:|:--:|:--:|:--:|:--:|:--:|
-| 1           | Prüfung, ob technisch OK.  |   asap   | ⚠️| ⚠️|    |    |    |
+| 18.00       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
 
 
 
