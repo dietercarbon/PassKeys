@@ -16,7 +16,7 @@
 | 13          |WebMeeting für „Ecken-Vorführungen“| DC lädt ein |    |   |    |    | ⚠️ |    |    | ⚠️ | ⚠️ |    |    | ⚠️ |
 | 14          |WebMeeting für Hersteller-Aktivitäten| DC lädt ein |    |   |    |    |    |    |    |    |    | ⚠️| ⚠️| ⚠️ |
 | 15          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
-| 16          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
+| 90          |Gemeinsames Teams-Meeting   |   27.11.2025 um 17.00 Uhr   | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ |
 
 
 
