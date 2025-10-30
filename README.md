@@ -12,7 +12,7 @@
 | 9           | Bewerbung in Medien-Kanälen|   asap   |    |   | ⚠️ |    |    | ⚠️ |    |    |    |    |    |    |
 | 10          | 3 „Ecken-Bildschirme“ organisieren|   asap   |    | ⚠️|    |    |    |    |    |    |    |    |    |    |
 | 11          | 3 Sprach-Verstärker für 3 Ecken|   asap   |    |   |    |    |    |    |    |    |    |    |    | ⚠️ |
-| 12          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
+| 12          |Vorbereitung A1 Hänger      |   asap   |    |   |    |    |    |    |    |    |    |    |    | ⚠️ |
 | 13          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 14          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 15          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
