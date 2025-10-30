@@ -11,7 +11,7 @@
 | 8           | Kontakt DC zu „Caterer“    |   asap   |    |   | ⚠️ |    |    |    |    |    |    |    |    |    |
 | 9           | Bewerbung in Medien-Kanälen|   asap   |    |   | ⚠️ |    |    | ⚠️ |    |    |    |    |    |    |
 | 10          | 3 „Ecken-Bildschirme“ organisieren|   asap   |    | ⚠️|    |    |    |    |    |    |    |    |    |    |
-| 11          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
+| 11          | 3 Sprach-Verstärker für 3 Ecken|   asap   |    |   |    |    |    |    |    |    |    |    |    | ⚠️ |
 | 12          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 13          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 14          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
