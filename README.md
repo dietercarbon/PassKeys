@@ -1,7 +1,7 @@
 ## Vorbereitung der PassKey-Party:  todos<br><br><br>
-| Nr        | Was                           | Wann     | TK | NK | YS | DK | ES | RM | ML | DS | MW | CM | MM | DC |
-|-------------|:-------------------------:|:------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1    | Bitte um Prüfung, ob technisch OK.   | ❌  |
+| Nr        | Was                           | Wann   | TK | NK | YS | DK | ES | RM | ML | DS | MW | CM | MM | DC |
+|-------------|:-------------------------:|:--------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1           | Prüfung, ob technisch OK.  |   asap   |
 
 
 
