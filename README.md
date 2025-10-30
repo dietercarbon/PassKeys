@@ -1,4 +1,4 @@
-## Stimmen zu PassKeys<br><br><br>
+## Vorbereitung der PassKey-Party:  todos<br><br><br>
 |Anbieter        | Anzahl möglicher Passkeys       | „Passwort vergessen“ - Fallback     |
 |-------------|:----------------:|:------------:|
 | Amazon    | 5     | ❌  |
