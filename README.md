@@ -13,7 +13,7 @@
 | 10          | 3 „Ecken-Bildschirme“ organisieren|   asap   |    | ⚠️|    |    |    |    |    |    |    |    |    |    |
 | 11          | 3 Sprach-Verstärker für 3 Ecken|   asap   |    |   |    |    |    |    |    |    |    |    |    | ⚠️ |
 | 12          |Vorbereitung A1 Hänger      |   asap   |    |   |    |    |    |    |    |    |    |    |    | ⚠️ |
-| 13          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
+| 13          |WebMeeting für „Ecken-Vorführungen“|   DC lädt ein   |    |   |    |    | ⚠️ |    |    | ⚠️ | ⚠️ |    |    | ⚠️ |
 | 14          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 15          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 1           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
