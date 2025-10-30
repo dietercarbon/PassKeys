@@ -7,9 +7,9 @@
 | 4           | Zitat-Ergänzung in Text    |   asap   | ⚠️| ⚠️| ⚠️ |    |    |    |    |    |    |    |    |    |
 | 5           | gemeinsame Text-Optimierung|   asap   |    |   | ⚠️ |    |    | ⚠️ |    |    |    |    |    |    |
 | 6           |Dekan übernimmt Begrüßung ? |   asap   |    |   | ⚠️ |    |    |    |    |    |    |    |    |    |
-| 7           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
-| 8           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
-| 9           |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
+| 7           | Titel-Ergänzung für Intro  |   asap   | ⚠️| ⚠️|    |    |    |    |    |    |    |    |    |    |
+| 8           | Kontakt DC zu „Caterer“    |   asap   |    |   | ⚠️ |    |    |    |    |    |    |    |    |    |
+| 9           | Bewerbung in Medien-Kanälen|   asap   |    |   | ⚠️ |    |    | ⚠️ |    |    |    |    |    |    |
 | 10          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 11          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
 | 12          |                            |   asap   |    |   |    |    |    |    |    |    |    |    |    |    |
