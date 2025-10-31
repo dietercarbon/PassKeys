@@ -28,6 +28,16 @@
 | 18.20       | 00.20  |   Überblick PyssKeys-Funktionen und -Handhabung| Prof. Kuntze/Prof. Klauer|             |                             |    ||
 | 18.40       | 00.10  |Überblick Workshopstruktur| D. Carbon|             |                             |    ||
 | 18.50       | 00.10  |   ? mit Brezel und Getränk stärken ?   | |             |                             |    |
+| 19.00       | 00.20  |allgemeine Diskussions- und Fragerunde| | Google Account  | Apple Account |Amazon Account  |
+| 19.20       | 00.20  |allgemeine Diskussions- und Fragerunde| | Google Account  | Apple Account |Amazon Account  |
+| 19.40       | 00.20  |allgemeine Diskussions- und Fragerunde| | Google Account  | Apple Account |Amazon Account  |
+| 20.00       | 00.20  |allgemeine Diskussions- und Fragerunde| | Google Account  | Apple Account |Amazon Account  |
+| 20.20       | 00.20  |allgemeine Diskussions- und Fragerunde| | Google Account  | Apple Account |Amazon Account  |
+| 20.40       | 00.20  |Resumee, Zusammenfassung| |     |    |    |
+
+
+
+
 
 
 
