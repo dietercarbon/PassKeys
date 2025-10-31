@@ -36,6 +36,25 @@
 | 20.40       | 00.20  |Resumee, Zusammenfassung| |     |    |    |
 
 
+Pressemitteilung
+Mainz, Oktober 2025. – Vergessene Passwörter, nervige Resets, endlose Support-Anfragen: Für viele Internetnutzerinnen und -nutzer ist das tägliche Realität. Der Arbeitskreis Internet-Sicherheit (AKIS) des VDI Rheingau-Bezirksvereins zeigt, dass es auch anders geht – sicherer, bequemer und datenschutzfreundlicher. AKIS lädt unter der Schirmherrschaft des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz und in Zusammenarbeit mit der Hochschule Mainz zur „PassKey-Party – Wir feiern den einfachen und sicheren Zugang der Zukunft“ ein.
+Im Mittelpunkt steht die Frage: Wie ersetzen PassKeys klassische Passwörter? Die neue Technologie macht Logins nicht nur komfortabler, sondern schützt auch effektiv vor typischen Risiken wie Phishing. „PassKeys sind ein echter Gamechanger“, betont Dieter Carbon, Leiter AKIS. „Sie nehmen den Menschen die Passwort-Last ab, erhöhen die Sicherheit und sparen Unternehmen hohe Support-Kosten. Es ist höchste Zeit, dass PassKeys den Alltag erreichen.“
+Zitat Prof. Kugelmann
+Zitat Prof. Klauer und/oder Prof. Kuntze
+Das Programm bietet Live-Demonstrationen, Austausch mit IT-Expert:innen sowie Praxis-Tipps, wie auch Selbständige und kleinere Unternehmen profitieren können. Gerade für Privatpersonen und kleine Betriebe ergeben sich entscheidende Vorteile: kein Ärger mit vergessenen Passwörtern, Schutz vor Phishing-Angriffen und leichterer Zugang für Kundschaft und Mitarbeitende.
+Begleitend stellt  AKIS eine frei zugängliche Übersicht über den Stand der Passkey-Integration bei großen Online-Diensten bereit. Diese Tabelle wird laufend aktualisiert und ist unter https://github.com/dietercarbon/PassKeys abrufbar.
+Wann: Mittwoch, 3. Dezember 18:00 Uhr
+Wo: Hochschule Mainz, Lucy Hillebrand Str. 2, 55128 Mainz
+Die Teilnahme an der Veranstaltung ist kostenfrei. Eine Anmeldung ist nicht erforderlich.
+Pressekontakt: für die Hochschule Mainz: Yvonne Serocka (Kontaktdaten ...) für den VDI, Rheingau-Bezirksverein: Reinhold Meyer (Kontaktdaten ...)
+
+
+
+ 
+Kurzfassung (für Veranstaltungskalender und Ankündigungen)
+Der Arbeitskreis Internet-Sicherheit (AKIS) des VDI Rheingau-Bezirksvereins lädt zur „PassKey-Party“ ein. Unter der Schirmherrschaft des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz und in Zusammenarbeit mit der Hochschule Mainz wird gezeigt, wie die neue Authentifizierungsmethode klassische Passwörter ablösen kann. Live-Demonstrationen, Fachvorträge und Praxis-Tipps verdeutlichen, dass PassKeys sicherer, bequemer und datenschutzfreundlicher sind. Die Veranstaltung richtet sich an Privatpersonen, Selbständige und Unternehmen, die sich einen Eindruck vom „Login der Zukunft“ verschaffen wollen. Der Eintritt ist frei, eine Anmeldung ist nicht erforderlich.
+Wann: Mittwoch, 3. Dezember 18:00 Uhr
+Wo: Hochschule Mainz, Lucy Hillebrand Str. 2, 55128 Mainz
 
 
 
