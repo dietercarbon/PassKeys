@@ -27,7 +27,7 @@
 | 18.10       | 00.10  |   Darstellung Handlungskontext| Prof. Kugelmann|             |                             |    ||
 | 18.20       | 00.20  |   Überblick PyssKeys-Funktionen und -Handhabung| Prof. Kuntze/Prof. Klauer|             |                             |    ||
 | 18.40       | 00.10  |Überblick Workshopstruktur| D. Carbon|             |                             |    ||
-| 18.50       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    |
+| 18.50       | 00.10  |   ? mit Brezel und Getränk stärken ?   | |             |                             |    |
 
 
 
