@@ -22,7 +22,7 @@
 
 | Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 1 | „Ecke“ 1 | Zentrum |
 |-------------|:------:|:-----------------------------:|:--:|:--:|:--:|:--:|:--:|
-|             |        |   Moderation D. Carbon   |    |Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
+|             |        |   Moderation  |  D. Carbon  |Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
 | 18.00       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    ||
 | 18.10       | 00.10  |   Darstellung Handlungskontext| Prof. Kugelmann|             |                             |    ||
 | 18.20       | 00.20  |   Überblick PyssKeys-Funktionen und -Handhabung| Prof. Kuntze/Prof. Klauer|             |                             |    ||
