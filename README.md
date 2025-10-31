@@ -71,8 +71,6 @@ für den VDI, Rheingau-Bezirksverein: Reinhold Meyer (Kontaktdaten ...)
 
 <br>
 <br>
-
-
  
 Kurzfassung (für Veranstaltungskalender und Ankündigungen)
 <br>
