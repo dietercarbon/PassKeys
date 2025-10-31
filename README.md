@@ -20,7 +20,7 @@
 
 <br><br>
 
-| Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 1 | „Ecke“ 1 | Zentrum |
+| Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 2 | „Ecke“ 3 | Zentrum |
 |-------------|:------:|:-----------------------------:|:--:|:--:|:--:|:--:|:--:|
 |             |        |   Moderation  |  D. Carbon  |Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
 | 18.00       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    ||
