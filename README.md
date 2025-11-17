@@ -29,9 +29,9 @@ Update 17.11.2025
 | Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 2 | „Ecke“ 3 | Zentrum |
 |-------------|:------:|:-----------------------------:|:--:|:--:|:--:|:--:|:--:|
 |             |        |   Moderation  |  D. Carbon  |Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
-| 18.00       | 00.10  |   Begrüßung durch Gastgeber   | Dekan?|             |                             |    ||
+| 18.00       | 00.10  |   Begrüßung durch Gastgeberin   | Prof. Kuntze/Prof. Klauer|             |                             |    ||
 | 18.10       | 00.10  |   Darstellung Handlungskontext| Prof. Kugelmann|             |                             |    ||
-| 18.20       | 00.20  |   Überblick PyssKeys-Funktionen und -Handhabung| Prof. Kuntze/Prof. Klauer|             |                             |    ||
+| 18.20       | 00.20  |   Überblick PyssKeys-Funktionen und -Handhabung| D. Carbon|             |                             |    ||
 | 18.40       | 00.10  |Überblick Workshopstruktur| D. Carbon|             |                             |    ||
 | 18.50       | 00.10  |   ? mit Brezel und Getränk stärken ?   | |             |                             |    |
 | 19.00       | 00.20  |allgemeine Diskussions- und Fragerunde| | Google Account  | Apple Account |Amazon Account  |Produkt-Demo  |
