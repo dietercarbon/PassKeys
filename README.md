@@ -1,5 +1,13 @@
 ## Vorbereitung der PassKey-Party
 <br>
+
+
+| Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 2 | „Ecke“ 3 | Zentrum |
+|-------------|:------:|:-----------------------------:|:--:|:--:|:--:|:--:|:--:|
+|             |        |   Moderation  |  D. Carbon  |Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
+
+
+
 ###todos ... Update 02<br><br><br>
 | Nr        | Was                           | Wann   | TK | NK | YS | DK | ES | RM | ML | DS | MW | CM | MM | DC |
 |-------------|:-------------------------:|:--------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
