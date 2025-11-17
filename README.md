@@ -29,7 +29,7 @@
 | 90          |Gemeinsames Teams-Meeting   |   27.11.2025 um 17.00 Uhr   | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ | ⚠️| ⚠️| ⚠️ |
 
 <br><br>
-###Agenda
+### Agenda
 
 | Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 2 | „Ecke“ 3 | Zentrum |
 |-------------|:------:|:-----------------------------:|:--:|:--:|:--:|:--:|:--:|
@@ -47,7 +47,7 @@
 | 20.40       | 00.20  |Resumee, Zusammenfassung| |     |    |    |
 
 
-###Pressemitteilung <br>
+### Pressemitteilung <br>
 Mainz, Oktober 2025. – Vergessene Passwörter, nervige Resets, endlose Support-Anfragen: Für viele Internetnutzerinnen und -nutzer ist das tägliche Realität. Der Arbeitskreis Internet-Sicherheit (AKIS) des VDI Rheingau-Bezirksvereins zeigt, dass es auch anders geht – sicherer, bequemer und datenschutzfreundlicher. AKIS lädt unter der Schirmherrschaft des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz und in Zusammenarbeit mit der Hochschule Mainz zur „PassKey-Party – Wir feiern den einfachen und sicheren Zugang der Zukunft“ ein.
 <br>
 Im Mittelpunkt steht die Frage: Wie ersetzen PassKeys klassische Passwörter? Die neue Technologie macht Logins nicht nur komfortabler, sondern schützt auch effektiv vor typischen Risiken wie Phishing. „PassKeys sind ein echter Gamechanger“, betont Dieter Carbon, Leiter AKIS. „Sie nehmen den Menschen die Passwort-Last ab, erhöhen die Sicherheit und sparen Unternehmen hohe Support-Kosten. Es ist höchste Zeit, dass PassKeys den Alltag erreichen.“
