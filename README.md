@@ -1,5 +1,4 @@
 ## Vorbereitung der PassKey-Party
-<br>
 Update 17.11.2025
 <br>
 
