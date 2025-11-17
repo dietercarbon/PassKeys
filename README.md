@@ -1,10 +1,5 @@
 ## Vorbereitung der PassKey-Party
-<br>
-
-
-| Uhrzeit     | Dauer  | "Ecke" 0             |  | „Ecke“ 1 | „Ecke“ 2 | „Ecke“ 3 | Zentrum |
-|-------------|:------:|:-----------------------------:|:--:|:--:|:--:|:--:|:--:|
-|             |        |   Moderation  |  D. Carbon  |Edgar Schäfer|Markus Wortmann|Dirk Schindowski|    |
+<br><br>
 
 
 
