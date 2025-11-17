@@ -15,7 +15,7 @@ Update 17.11.2025
 | 7           | Titel-Ergänzung für Intro  |   asap   | ⚠️| ⚠️|    |    |    |    |    |    |    |    |    |    |
 | 8           | Kontakt DC zu „Caterer“    |   asap   |    |   | ⚠️ |    |    |    |    |    |    |    |    |    |
 | 9           | Bewerbung in Medien-Kanälen|   asap   |    |   | ⚠️ |    |    | ⚠️ |    |    |    |    |    |    |
-| 10          | 3 „Ecken-Bildschirme“ organisieren|   asap   |    | ⚠️|    |    |    |    |    |    |    |    |    |    |
+| 10          | 3 „Ecken-Bildschirme“ organisieren|   asap   |    | 2/3|    |    |    |    |    |    |    |    |    |    |
 | 11          | 3 Sprach-Verstärker für 3 Ecken|   asap   |    |   |    |    |    |    |    |    |    |    |    | ⚠️ |
 | 12          |Vorbereitung A1 Hänger      |   asap   |    |   |    |    |    |    |    |    |    |    |    | ⚠️ |
 | 13          |WebMeeting für „Ecken-Vorführungen“| DC lädt ein |    |   |    |    | ⚠️ |    |    | ⚠️ | ⚠️ |    |    | ⚠️ |
