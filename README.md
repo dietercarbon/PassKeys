@@ -47,7 +47,7 @@ Mainz, Oktober 2025. – Vergessene Passwörter, nervige Resets, endlose Support
 Im Mittelpunkt steht die Frage: Wie ersetzen PassKeys klassische Passwörter? Die neue Technologie macht Logins nicht nur komfortabler, sondern schützt auch effektiv vor typischen Risiken wie Phishing. „PassKeys sind ein echter Gamechanger“, betont Dieter Carbon, Leiter AKIS. „Sie nehmen den Menschen die Passwort-Last ab, erhöhen die Sicherheit und sparen Unternehmen hohe Support-Kosten. Es ist höchste Zeit, dass PassKeys den Alltag erreichen.“
 <br>
 <br>
-Zitat Prof. Kugelmann
+Der Landesdatenschutzbeauftragte Prof. Dr. Dieter Kugelmann hebt hervor: „Datenschutz umfasst auch Aspekte der Datensicherheit. Passkeys können dazu beitragen, dass private Informationen auch privat bleiben. Deshalb halte ich es für wichtig, sich mit ihren Möglichkeiten und Einsatzfeldern zu beschäftigen.“
 <br>
 <br>
 Zitat Prof. Klauer und/oder Prof. Kuntze
