@@ -1,7 +1,7 @@
 ## Vorbereitung der PassKey-Party
 <br>
-
-
+Update 17.11.2025
+<br>
 
 ### todos ... Update
 | Nr        | Was                           | Wann   | TK | NK | YS | DK | ES | RM | ML | DS | MW | CM | MM | DC |
